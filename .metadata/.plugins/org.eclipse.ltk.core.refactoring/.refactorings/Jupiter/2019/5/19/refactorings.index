@@ -1,0 +1,16 @@
+1557373733897	Move 'index.html' to 'WebContent'
+1557373790409	Rename resource 'mock.jg'
+1557374021780	Rename resource 'style'
+1557591580373	Encapsulate field 'itemId'
+1557591611593	Encapsulate field 'name'
+1557591619000	Encapsulate field 'rating'
+1557591624042	Encapsulate field 'address'
+1557591628937	Encapsulate field 'categories'
+1557591635596	Encapsulate field 'imageUrl'
+1557591640390	Encapsulate field 'url'
+1557591646271	Encapsulate field 'distance'
+1557595235478	Copy package
+1557595259628	Delete element
+1557611339891	Delete element
+1557611354908	Copy package
+1557611365782	Delete element
